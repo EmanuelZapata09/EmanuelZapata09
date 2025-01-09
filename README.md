@@ -71,7 +71,7 @@
 </section>
 
 <section id="statistics">
-  <h1>📈| Mis estadisticas</h1>
+  <h1>📊| Mis estadisticas</h1>
   <p>Estoy comprometido con el crecimiento constante y mantengo una mentalidad abierta para explorar nuevas tecnologías y metodologías de desarrollo, buscando siempre mejorar y evolucionar como profesional.</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelZapata09&theme=dark"></img>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanuelZapata09&theme=dark"></img>
