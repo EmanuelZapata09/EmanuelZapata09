@@ -62,6 +62,7 @@
       <img src="http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff">
        <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/badge/-Jenkins-181717?style=for-the-badge&logo=jenkins"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/SalesForce-0078D4?style=for-the-badge&logo=salesforce&logoColor=white" alt="salesforce" />
